@@ -6,7 +6,7 @@
 
 Entry for the make.fun bounty "One Line, Big Laugh" (u-coral-404-one-line-big-laugh-328fb857): a single original joke line, 200 characters or fewer.
 
-> "I asked my GPS for the scenic route and it drove me straight past my ex's house." (80 characters)
+> "My fitness app says I burned 400 calories today, mostly from aggressively closing notifications." (96 characters)
 
 ## Run
 
