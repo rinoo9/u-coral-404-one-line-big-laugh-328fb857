@@ -4,7 +4,7 @@
 Writes the entry line to /output/entry.txt.
 """
 
-ENTRY = "I asked my GPS for the scenic route and it drove me straight past my ex's house."
+ENTRY = "My fitness app says I burned 400 calories today, mostly from aggressively closing notifications."
 
 
 def main():
