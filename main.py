@@ -2,9 +2,11 @@
 "u-coral-404-one-line-big-laugh-328fb857" (One Line, Big Laugh).
 
 Writes the entry line to /output/entry.txt.
+Deterministic, no network, no randomness: running it twice
+produces byte-identical output.
 """
 
-ENTRY = "My fitness app says I burned 400 calories today, mostly from aggressively closing notifications."
+ENTRY = "My smart fridge caught me sneaking ice cream at 2 a.m. and now it charges me rent for the freezer shelf."
 
 
 def main():
